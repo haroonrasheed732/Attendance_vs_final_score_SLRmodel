@@ -1,0 +1,58 @@
+Hours_Studied,Sleep_Hours,Internet_Usage,Gender,Study_Method,Attendance,Final_Score
+2,6,3,Male,Self Study,75,55
+3,7,2,Female,Coaching,80,60
+4,6,4,male,Self study,78,62
+5,8,3,Femle,Group Study,85,70
+6,7,5,Male,Self Study,88,72
+7,6,6,Female,coaching,90,75
+8,7,4,Male,Group study,92,80
+2,5,7,Female,Self Study,70,50
+3,6,6,Male,Self Study,75,55
+4,7,5,Female,Group Study,82,65
+5,8,4,Male,Self Study,85,68
+6,6,5,Female,Coaching,88,72
+7,7,6,Male,Self study,90,76
+8,8,3,Female,Group Study,95,85
+,7,4,Male,Self Study,80,65
+5,,5,Female,Coaching,85,70
+6,6,,Male,Group Study,88,72
+7,7,6,,Self Study,90,75
+8,8,3,Female,,92,80
+4,6,5,Male,Self Study,,60
+3,5,6,Female,Coaching,78,
+2,6,7,Male,Self Study,70,52
+5,8,4,Female,Group Study,85,68
+6,7,5,Male,Self Study,88,72
+7,6,6,Female,Coaching,90,75
+8,7,4,Male,Group Study,92,80
+2,5,7,Female,Self Study,70,50
+3,6,6,Male,Self Study,75,55
+4,7,5,Female,Group Study,82,65
+5,8,4,Male,Self Study,85,68
+6,6,5,Female,Coaching,88,72
+7,7,6,Male,Self Study,90,76
+8,8,3,Female,Group Study,95,85
+2,6,3,Male,Self Study,75,55
+3,7,2,Female,Coaching,80,60
+4,6,4,male,Self study,78,62
+5,8,3,Femle,Group Study,85,70
+6,7,5,Male,Self Study,88,72
+7,6,6,Female,coaching,90,75
+8,7,4,Male,Group study,92,80
+2,5,7,Female,Self Study,70,50
+3,6,6,Male,Self Study,75,55
+4,7,5,Female,Group Study,82,65
+5,8,4,Male,Self Study,85,68
+6,6,5,Female,Coaching,88,72
+7,7,6,Male,Self study,90,76
+8,8,3,Female,Group Study,95,85
+1,5,8,Male,Self Study,65,45
+9,8,2,Female,Coaching,96,88
+10,7,1,Male,Self Study,98,92
+1,4,9,Female,Group Study,60,40
+9,9,2,Male,Self Study,97,90
+10,8,1,Female,Coaching,99,94
+3,6,6,Male,Self Study,75,55
+3,6,6,Male,Self Study,75,55
+4,7,5,Female,Group Study,82,65
+4,7,5,Female,Group Study,82,65
